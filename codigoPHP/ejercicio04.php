@@ -18,7 +18,7 @@
        setlocale(LC_ALL, "es_ES.utf-8");                             //Seleccionamos el idioma para la fecha
        date_default_timezone_set("Europe/Lisbon");                  //Esto es para cambiar la zona horaria por defecto
                                                                     
-      
+       
         echo strftime("<h3>%A %d de %B de %G</h3>");                //strftime Formatea una fecha/hora local según una configuración local
         //%A - Dia de la semana
         //%d - Numero del dia con 0 delante
