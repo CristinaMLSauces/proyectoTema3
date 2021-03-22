@@ -11,10 +11,28 @@
         
        <?php 
        
-      date_default_timezone_set ('Europe/Madrid');
-      echo date("d-m-Y (H:i:s)");
+      echo "<h2>Fecha en Portugues</h2>"; 
       
-      https://mimentevuela.wordpress.com/2016/04/30/convertir-fechas-de-php-a-castellano/
+     // Para que la hora se muestre en Portugués hay que instalar el paquete del idioma en el servidor - sudo apt-get install language-pack-pt
+      
+       setlocale(LC_ALL, "es_ES.utf-8");                             //Seleccionamos el idioma para la fecha
+       date_default_timezone_set("Europe/Lisbon");                  //Esto es para cambiar la zona horaria por defecto
+                                                                    
+      
+        echo strftime("<h3>%A %d de %B de %G</h3>");                //strftime Formatea una fecha/hora local según una configuración local
+        //%A - Dia de la semana
+        //%d - Numero del dia con 0 delante
+        //%B - Nombre del mes completo
+        //%G - Año
+      
+        
+        //Lo he mirado de Nerea Nuevo pero lo entiendo
+      
+        
+        
+        
+      
+      //-------- Ultima modificacion 22-03-2021 -------
 
        ?>
         

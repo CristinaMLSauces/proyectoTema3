@@ -45,60 +45,59 @@ and open the template in the editor.
   </tr>
    <tr>
     <td><a href="./codigoPHP/ejercicio04.php">Ejercicio4 - Mostrar en tu página index la fecha y hora actual en Oporto formateada en portugués.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio04.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio04.php"><img src="./images/codigo.png"/></a></td>-->
+<td><a title="Play" href="./codigoPHP/ejercicio04.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio04.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio05.php">Ejercicio5 - Inicializar y mostrar una variable que tiene una marca de tiempo (timestamp)</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio05.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio05.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio05.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio05.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio06.php">Ejercicio6 - Operar con fechas: calcular la fecha y el día de la semana de dentro de 60 días.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio06.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio06.php"><img src="./images/codigo.png"/></a></td>-->
+     <td><a title="Play" href="./codigoPHP/ejercicio06.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio06.php"><img src="./images/codigo.png"/></a></td>
   </tr>
     <tr>
     <td><a href="./codigoPHP/ejercicio07.php">Ejercicio7 - Mostrar el nombre del fichero que se está ejecutando.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio07.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio07.php"><img src="./images/codigo.png"/></a></td>-->
-  </tr>
-  </tr>
+    <td><a title="Play" href="./codigoPHP/ejercicio07.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio07.php"><img src="./images/codigo.png"/></a></td>
+   </tr>
     <tr>
     <td><a href="./codigoPHP/ejercicio08.php">Ejercicio8 - Mostrar la dirección IP del equipo desde el que estás accediendo.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio08.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio08.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio08.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio08.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio09.php">Ejercicio9 -  Mostrar el path donde se encuentra el fichero que se está ejecutando.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio09.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio09.php"><img src="./images/codigo.png"/></a></td>-->
+   <td><a title="Play" href="./codigoPHP/ejercicio09.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio09.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio10.php">Ejercicio10 -  Mostrar el contenido del fichero que se está ejecutando.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio10.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio10.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio10.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio10.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
-    <td><a href="./codigoPHP/ejercicio10.php" >Ejercicio11 -  Mostrar el documento PHPDoc del proyecto con PHP Documentor o ApiGen.</a></td>
+      <td><a href="" style="color:red;" >Ejercicio11 -  Mostrar el documento PHPDoc del proyecto con PHP Documentor o ApiGen.</a></td>
 <!--    <td><a title="Play" href="./codigoPHP/ejercicio10.php"><img src="./images/play.png"/></a></td>
     <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio10.php"><img src="./images/codigo.png"/></a></td>-->
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio12.php" >Ejercicio12 -  Mostrar el contenido de las variables superglobales (utilizando print_r() y foreach()).</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio12.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio12.php"><img src="./images/codigo.png"/></a></td>-->
+   <td><a title="Play" href="./codigoPHP/ejercicio12.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio12.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
-    <td><a href="./codigoPHP/ejercicio13.php" >Ejercicio13 -  Crear una función que cuente el número de visitas a la página actual desde una fecha concreta.</a></td>
+    <td><a href="" style="color:red;">Ejercicio13 -  Crear una función que cuente el número de visitas a la página actual desde una fecha concreta.</a></td>
 <!--    <td><a title="Play" href="./codigoPHP/ejercicio13.php"><img src="./images/play.png"/></a></td>
     <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio13.php"><img src="./images/codigo.png"/></a></td>-->
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio14.php">Ejercicio14 -  Comprobar las librerías que estás utilizando en tu entorno de desarrollo y explotación.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio14.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio14.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio14.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio14.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio15.php" >Ejercicio15 -  Crear e inicializar un array con el sueldo percibido de lunes a domingo. Recorrer el array.</a></td>

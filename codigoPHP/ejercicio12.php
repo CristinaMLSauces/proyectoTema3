@@ -4,7 +4,17 @@
         <title>Cristina Manjon</title>
         <meta charset="UTF-8">
         <meta name="author" content="Cristina Manjon Lacalle">
-      
+        <style>
+            h2{
+                color: Purple;
+            }
+            h3{
+                color:violet;
+            }
+            b{
+                color:violet;
+            }
+        </style>
         
     </head>
     <body>
@@ -13,12 +23,11 @@
        
        /*Autor: Cristina Manjon Lacalle */
        
-       echo "<h4>Mostrar el contenido de las variables </h4>";
        
-       echo "<h2>Con foreach $ Server</h2>"; 
-       foreach ($_SERVER as $parm => $value)  echo "<b>$parm </b>= '$value'<br>";
+       echo "<h2>Mostrar $ Server con foreach</h2>"; 
+       foreach ($_SERVER as $parm => $value)  echo "<b>$parm </b>= '$value'<br>";      //Sacamos los parametros con foreach y los mostramos
       
-       echo "<h2>Con print_r </h2>"; 
+       echo "<h2>Mostrar $ Server con print_r </h2>"; 
        
        echo "<h3>Globals </h3>";
        echo "<pre>";
@@ -44,11 +53,12 @@
        echo "<h3>Rquest </h3>";
        echo "<pre>";   
            print_r($_REQUEST);
-        echo "<h3>Env </h3>";
-        echo "<pre>";
+       echo "<h3>Env </h3>";
+       echo "<pre>";
            print_r($_ENV);
        
- 
+           
+        //-------- Ultima modificacion 22-03-2021 -------
        
 ?>
         

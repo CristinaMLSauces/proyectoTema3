@@ -9,11 +9,16 @@
     </head>
     <body>
         
-       <?php echo 'Hola Mundo' ;
+       <?php echo 'Hola Mundo' ; //Abro etiqueta PHP //Con echo puedo sacar cosas por pantalla
        
-       phpinfo();
-      
+       phpinfo();               //Con phpinfo puedo mostrar informacion sobre la configuracion de php
+       
+       
+       
+            //-------- Ultima modificacion 22-03-2021 -------
        ?>
+        
+       
         
     </body>
 </html>
