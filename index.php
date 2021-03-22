@@ -45,23 +45,23 @@ and open the template in the editor.
   </tr>
    <tr>
     <td><a href="./codigoPHP/ejercicio04.php">Ejercicio4 - Mostrar en tu página index la fecha y hora actual en Oporto formateada en portugués.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio04.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio04.php"><img src="./images/codigo.png"/></a></td>-->
+<td><a title="Play" href="./codigoPHP/ejercicio04.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio04.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio05.php">Ejercicio5 - Inicializar y mostrar una variable que tiene una marca de tiempo (timestamp)</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio05.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio05.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio05.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio05.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio06.php">Ejercicio6 - Operar con fechas: calcular la fecha y el día de la semana de dentro de 60 días.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio06.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio06.php"><img src="./images/codigo.png"/></a></td>-->
+     <td><a title="Play" href="./codigoPHP/ejercicio06.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio06.php"><img src="./images/codigo.png"/></a></td>
   </tr>
     <tr>
     <td><a href="./codigoPHP/ejercicio07.php">Ejercicio7 - Mostrar el nombre del fichero que se está ejecutando.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio07.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio07.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio07.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio07.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   </tr>
     <tr>

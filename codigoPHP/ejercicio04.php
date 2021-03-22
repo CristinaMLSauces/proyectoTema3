@@ -11,10 +11,10 @@
         
        <?php 
        
-      date_default_timezone_set ('Europe/Madrid');
+      date_default_timezone_set ('Europe/Lisbon');      
       echo date("d-m-Y (H:i:s)");
       
-      https://mimentevuela.wordpress.com/2016/04/30/convertir-fechas-de-php-a-castellano/
+      //https://mimentevuela.wordpress.com/2016/04/30/convertir-fechas-de-php-a-castellano/
 
        ?>
         
