@@ -80,13 +80,13 @@ and open the template in the editor.
     <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio10.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
-      <td><a href="" style="color:red;" >Ejercicio11 -  Mostrar el documento PHPDoc del proyecto con PHP Documentor o ApiGen.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio10.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio10.php"><img src="./images/codigo.png"/></a></td>-->
+     <td><a href="" style="color:red;" >Ejercicio11 -  Mostrar el documento PHPDoc del proyecto con PHP Documentor o ApiGen.</a></td>
+<!--     <td><a title="Play" href="./codigoPHP/ejercicio10.php"><img src="./images/play.png"/></a></td>
+     <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio10.php"><img src="./images/codigo.png"/></a></td>-->
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio12.php" >Ejercicio12 -  Mostrar el contenido de las variables superglobales (utilizando print_r() y foreach()).</a></td>
-   <td><a title="Play" href="./codigoPHP/ejercicio12.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Play" href="./codigoPHP/ejercicio12.php"><img src="./images/play.png"/></a></td>
     <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio12.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
@@ -101,23 +101,23 @@ and open the template in the editor.
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio15.php" >Ejercicio15 -  Crear e inicializar un array con el sueldo percibido de lunes a domingo. Recorrer el array.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio15.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio15.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio15.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio15.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio16.php">Ejercicio16 -  Recorrer el array anterior utilizando funciones para obtener el mismo resultado.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio16.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio16.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio16.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio16.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio17.php">Ejercicio17 - Inicializar un array donde almacenamos el nombre de las personas que tienen reservado el asiento en un teatro</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio17.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio17.php"><img src="./images/codigo.png"/></a></td>-->
+   <td><a title="Play" href="./codigoPHP/ejercicio17.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio17.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio18.php">Ejercicio18 - Recorrer el array anterior utilizando funciones para obtener el mismo resultado.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio18.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio18.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio18.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio18.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio19.php">Ejercicio19 - Construir una librería de funciones de validación de campos de formularios para utilizarla en los siguientes ejercicios.</a></td>
