@@ -115,19 +115,19 @@ and open the template in the editor.
     <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio17.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
-    <td><a href="./codigoPHP/ejercicio18.php">Ejercicio18 - Recorrer el array anterior utilizando funciones para obtener el mismo resultado.</a></td>
-    <td><a title="Play" href="./codigoPHP/ejercicio18.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio18.php"><img src="./images/codigo.png"/></a></td>
+    <td><a href="./codigoPHP/ejercicio18.php" style="color:red;">Ejercicio18 - Recorrer el array anterior utilizando funciones para obtener el mismo resultado.</a></td>
+ <!--    <td><a title="Play" href="./codigoPHP/ejercicio18.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio18.php"><img src="./images/codigo.png"/></a></td>-->
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio19.php">Ejercicio19 - Construir una librería de funciones de validación de campos de formularios para utilizarla en los siguientes ejercicios.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio19.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio19.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio19.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio19.php"><img src="./images/codigo.png"/></a></td>
   </tr>
    <tr>
     <td><a href="./codigoPHP/ejercicio20.php">Ejercicio20 -  Convertir la LibreriaValidacionFormularios.php en una clase ValidacionFormularios.php.</a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio20.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio20.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio20.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio20.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio21.php">Ejercicio21 -  Construir un formulario para recoger un cuestionario realizado a una persona y enviarlo a una página Tratamiento.php</a></td>
@@ -141,13 +141,13 @@ and open the template in the editor.
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio23.php">Ejercicio23 - Construir un formulario para recoger un cuestionario, mostrar en la misma página las preguntas y respuestas, respuesta vacía o errónea volverá a salir el formulario </a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio23.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio23.php"><img src="./images/codigo.png"/></a></td>-->
+   <td><a title="Play" href="./codigoPHP/ejercicio23.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio23.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio24.php">Ejercicio24 - Construir un formulario para recoger un cuestionario realizado a una persona y mostrar en la misma página las preguntas y las respuestas recogidas; </a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio24.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio24.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio24.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio24.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="codigoPHP/ejercicio25.php">Ejercicio25 - Mi plantilla </a></td>
@@ -156,13 +156,13 @@ and open the template in the editor.
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio27.php">Ejercicio27 - Plantilla para tres </a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio25.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio25.php"><img src="./images/codigo.png"/></a></td>-->
+   <td><a title="Play" href="./codigoPHP/ejercicio27.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio27.php"><img src="./images/codigo.png"/></a></td>
   </tr>
   <tr>
     <td><a href="./codigoPHP/ejercicio28.php">Ejercicio28 - Mostrar la plantilla de formularios de Nerea </a></td>
-<!--    <td><a title="Play" href="./codigoPHP/ejercicio28.php"><img src="./images/play.png"/></a></td>
-    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio28.php"><img src="./images/codigo.png"/></a></td>-->
+    <td><a title="Play" href="./codigoPHP/ejercicio28.php"><img src="./images/play.png"/></a></td>
+    <td><a title="Codigo" href="./mostrarcodigo/muestraEjercicio28.php"><img src="./images/codigo.png"/></a></td>
   </tr>
    
 </table>
